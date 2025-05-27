@@ -4,6 +4,6 @@ Basic app to demonstrate drag and drop with a grid layout.
 
 - [x] add TalwindCSS
 - [x] setup colourful grid
-- [ ] add drag and drop library
-- [ ] style object being dragged
-- [ ] style to show target drop zone
+- [x] add drag and drop library
+- [x] style object being dragged
+- [x] style to show target drop zone
